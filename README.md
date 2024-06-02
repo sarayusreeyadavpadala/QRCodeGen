@@ -2,7 +2,7 @@
 
 <h4>The code provided in this repository can generate QR code for text, contact information, URL's and WI-FI network details.
   
-Customizing the QR code is also available. You can customize the QR code using the provided inputs like,</h4>
+Customization options to generate the QR code are also available. You can customize the QR code using the provided inputs like,</h4>
   
 <strong>
 <h5>
