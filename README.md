@@ -1,5 +1,5 @@
 <h1>QR Code Generator</h1>
-----------------------------------------------------------------------------------
+
 <h5>The code provided in this repository can generate QR code for text, contact information, URL's and WI-FI network details.
   
 Customizing the QR code is also available. You can customize the QR code using the provided inputs like,
