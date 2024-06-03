@@ -14,3 +14,7 @@ Size: from 100 X 100 to 2000 X 2000
 
 </strong>
 And you can download the QR code with png extension.
+
+<h1>My site is live here</h1>
+
+<a href="https://sarayusreeyadavpadala.github.io/QRCodeGen/">https://sarayusreeyadavpadala.github.io/QRCodeGen/</a>
